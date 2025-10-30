@@ -1,0 +1,5 @@
+Lapicera,120.5,30
+Cuaderno,450.0,50
+Regla,80.0,100
+lapicera,10.0,5
+as,asd,a
